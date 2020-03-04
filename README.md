@@ -15,7 +15,7 @@ for. Let's write a function that will help us manage our gift recipient list. We
 should be able to add a person we need to buy a present for and remove people we
 no longer like (or who give us socks every year!).
 
-In this lab, we will focus on writing two reducers to help us handle this task.
+In this lab, we w   ill focus on writing two reducers to help us handle this task.
 Since we're drilling down into one concept, React is not set up in this lab, nor
 is there an `index.html` file. Follow the instructions below and implement your
 code in `src/reducers/manageFriends.js` and `serc/reducers/managePresents.js`.
